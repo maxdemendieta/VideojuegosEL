@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\leo\\desktop\\dv\\source\\videojuegosenlinea\\myclass.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\leo\\desktop\\dv\\intermediate\\build\\win64\\x64\\videojuegosenlineaeditor\\debuggame\\engine\\sharedpch.engine.nonoptimized.cpp20.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "c:\\users\\leo\\desktop\\dv\\intermediate\\build\\win64\\x64\\unrealeditor\\debuggame\\videojuegosenlinea\\definitions.videojuegosenlinea.h",
+            "c:\\users\\leo\\desktop\\dv\\source\\videojuegosenlinea\\myclass.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

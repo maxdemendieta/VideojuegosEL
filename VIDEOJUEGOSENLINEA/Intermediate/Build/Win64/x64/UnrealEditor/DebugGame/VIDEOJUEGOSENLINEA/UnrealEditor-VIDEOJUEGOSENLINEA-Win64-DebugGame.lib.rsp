@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-VIDEOJUEGOSENLINEA-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Leo\Desktop\DV\Intermediate\Build\Win64\x64\VIDEOJUEGOSENLINEAEditor\DebugGame\Engine\SharedPCH.Engine.NonOptimized.Cpp20.InclOrderUnreal5_0.h.obj"
+"C:\Users\Leo\Desktop\DV\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\VIDEOJUEGOSENLINEA\MyClass.cpp.obj"
+"C:\Users\Leo\Desktop\DV\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\VIDEOJUEGOSENLINEA\VIDEOJUEGOSENLINEA.cpp.obj"
+"C:\Users\Leo\Desktop\DV\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\VIDEOJUEGOSENLINEA\Default.rc2.res"
+/OUT:"C:\Users\Leo\Desktop\DV\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\VIDEOJUEGOSENLINEA\UnrealEditor-VIDEOJUEGOSENLINEA-Win64-DebugGame.lib"

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "VIDEOJUEGOSENLINEA",
+			"Path": "..\\Source\\VIDEOJUEGOSENLINEA.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "VIDEOJUEGOSENLINEAEditor",
+			"Path": "..\\Source\\VIDEOJUEGOSENLINEAEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

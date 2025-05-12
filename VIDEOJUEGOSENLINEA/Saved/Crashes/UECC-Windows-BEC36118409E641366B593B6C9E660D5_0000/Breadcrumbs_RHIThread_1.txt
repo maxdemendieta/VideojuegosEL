@@ -1,0 +1,7 @@
+Breadcrumbs 'RHIThread'
+Context 1/2
+	00 Scene
+	01 Scene
+	02 CompositionBeforeBasePass
+	03 PostProcessing
+	04 TemporalSuperResolution(sg.AntiAliasingQuality=1) 1432x643 -> 1432x643

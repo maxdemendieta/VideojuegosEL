@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-VIDEOJUEGOSENLINEA.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Leo\Desktop\DV\Intermediate\Build\Win64\x64\VIDEOJUEGOSENLINEAEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.obj"
+"C:\Users\Leo\Desktop\DV\Intermediate\Build\Win64\x64\UnrealEditor\Development\VIDEOJUEGOSENLINEA\MyClass.cpp.obj"
+"C:\Users\Leo\Desktop\DV\Intermediate\Build\Win64\x64\UnrealEditor\Development\VIDEOJUEGOSENLINEA\VIDEOJUEGOSENLINEA.cpp.obj"
+"C:\Users\Leo\Desktop\DV\Intermediate\Build\Win64\x64\UnrealEditor\Development\VIDEOJUEGOSENLINEA\Default.rc2.res"
+/OUT:"C:\Users\Leo\Desktop\DV\Intermediate\Build\Win64\x64\UnrealEditor\Development\VIDEOJUEGOSENLINEA\UnrealEditor-VIDEOJUEGOSENLINEA.lib"
