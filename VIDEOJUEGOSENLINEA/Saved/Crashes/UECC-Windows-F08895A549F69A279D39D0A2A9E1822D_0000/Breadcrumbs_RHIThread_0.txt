@@ -1,0 +1,7 @@
+Breadcrumbs 'RHIThread'
+Context 1/2
+	00 Scene
+	01 Scene
+	02 LumenSceneUpdate: 37 card captures 0.004M texels
+	03 LumenSceneUpdate: 37 card captures 0.004M texels
+	04 MeshCardCapture Pages:37 Draws:109 Instances:109 Tris:764759
